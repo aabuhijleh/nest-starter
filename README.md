@@ -2,13 +2,13 @@
 
 > [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Installation
+## 🏁 Installation
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## 🏃‍♀️ Running the app
 
 ```bash
 # development
@@ -21,7 +21,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## 🧪 Test
 
 ```bash
 # unit tests
