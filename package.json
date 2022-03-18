@@ -43,7 +43,7 @@
     "eslint-plugin-sort-imports-es6-autofix": "^0.6.0",
     "husky": "^7.0.4",
     "jest": "^27.5.1",
-    "lint-staged": "^12.3.6",
+    "lint-staged": "^12.3.7",
     "prettier": "^2.6.0",
     "source-map-support": "^0.5.21",
     "supertest": "^6.2.2",
