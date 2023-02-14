@@ -34,7 +34,7 @@
     "@types/node": "^16.11.13",
     "@types/supertest": "^2.0.12",
     "@typescript-eslint/eslint-plugin": "^5.40.1",
-    "@typescript-eslint/parser": "^5.41.0",
+    "@typescript-eslint/parser": "^5.52.0",
     "commitlint": "^15.0.0",
     "commitlint-config-gitmoji": "^2.2.6",
     "eslint": "^8.26.0",
